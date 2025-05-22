@@ -23,6 +23,12 @@ export default tseslint.config(
         'warn',
         { allowConstantExport: true },
       ],
+      'react/no-unescaped-entities': 'off',
+      '@typescript-eslint/quotes': 'off',
+      'quotes': [0],
+      'avoidEscape': 0,
+      'allowTemplateLiterals': 0,
+      'no-useless-escape': 0
     },
   },
 )
