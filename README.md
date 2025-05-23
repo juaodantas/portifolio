@@ -1,8 +1,8 @@
 # João Vitor Dantas - Portfólio
 
-![Portfolio Preview](./public/preview.png)
-
 Bem-vindo ao repositório do meu portfólio profissional! Este projeto foi desenvolvido com tecnologias modernas para apresentar minhas habilidades, experiências e projetos como Desenvolvedor Full Stack.
+
+Acesse em: https://jvdantas-dev.vercel.app/
 
 ## 🚀 Tecnologias Utilizadas
 
